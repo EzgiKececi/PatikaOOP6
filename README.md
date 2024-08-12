@@ -1,1 +1,1 @@
-# PatikaOOP6
+# Polimorfizm uygulaması
