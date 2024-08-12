@@ -1,0 +1,14 @@
+C:\Users\Yavuz\source\repos\PatikaPolymorphism\PatikaPolymorphism\obj\Debug\net8.0\PatikaPolymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yavuz\source\repos\PatikaPolymorphism\PatikaPolymorphism\obj\Debug\net8.0\PatikaPolymorphism.AssemblyInfoInputs.cache
+C:\Users\Yavuz\source\repos\PatikaPolymorphism\PatikaPolymorphism\obj\Debug\net8.0\PatikaPolymorphism.AssemblyInfo.cs
+C:\Users\Yavuz\source\repos\PatikaPolymorphism\PatikaPolymorphism\obj\Debug\net8.0\PatikaPolymorphism.csproj.CoreCompileInputs.cache
+C:\Users\Yavuz\source\repos\PatikaPolymorphism\PatikaPolymorphism\bin\Debug\net8.0\PatikaPolymorphism.exe
+C:\Users\Yavuz\source\repos\PatikaPolymorphism\PatikaPolymorphism\bin\Debug\net8.0\PatikaPolymorphism.deps.json
+C:\Users\Yavuz\source\repos\PatikaPolymorphism\PatikaPolymorphism\bin\Debug\net8.0\PatikaPolymorphism.runtimeconfig.json
+C:\Users\Yavuz\source\repos\PatikaPolymorphism\PatikaPolymorphism\bin\Debug\net8.0\PatikaPolymorphism.dll
+C:\Users\Yavuz\source\repos\PatikaPolymorphism\PatikaPolymorphism\bin\Debug\net8.0\PatikaPolymorphism.pdb
+C:\Users\Yavuz\source\repos\PatikaPolymorphism\PatikaPolymorphism\obj\Debug\net8.0\PatikaPolymorphism.dll
+C:\Users\Yavuz\source\repos\PatikaPolymorphism\PatikaPolymorphism\obj\Debug\net8.0\refint\PatikaPolymorphism.dll
+C:\Users\Yavuz\source\repos\PatikaPolymorphism\PatikaPolymorphism\obj\Debug\net8.0\PatikaPolymorphism.pdb
+C:\Users\Yavuz\source\repos\PatikaPolymorphism\PatikaPolymorphism\obj\Debug\net8.0\PatikaPolymorphism.genruntimeconfig.cache
+C:\Users\Yavuz\source\repos\PatikaPolymorphism\PatikaPolymorphism\obj\Debug\net8.0\ref\PatikaPolymorphism.dll
